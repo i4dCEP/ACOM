@@ -1,5 +1,5 @@
 # Azure Cost & Capacity Insights-CTA (Basic)
-This is a Customized Azure Cost & Capacity Insights Power BI App derived out of standard Cost Management Template App and is meant to assist in analyzing and managing your Cloud Cost & Capacity. 
+This is a Customized Azure Cost & Capacity Insights Power BI Template App derived out of standard Cost Management Template App and is meant to assist in analyzing and managing your Cloud Cost & Capacity. 
 
 You can utilize the Azure Cost & Capacity Insights app to Monitor Costs, Capacity, Usage Trends and identify Cost & Capacity Optimization options to reduce Azure Cloud expenditures. Please use Focus Mode for better & full-page visibility
 
