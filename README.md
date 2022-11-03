@@ -1,13 +1,13 @@
 # Azure Cost & Capacity Insights-CTA (Basic)
-This is a Customized Azure Cost & Capacity Insights Power BI Template App derived out of standard Cost Management Template App and is meant to assist in analyzing and managing your Cloud Cost & Capacity. 
+Azure Cost & Capacity Insights-CTA (Basic) is a Customized Basic version Power BI Template App derived out of standard Cost Management Template App to assist in Analyzing & Managing your Cloud Cost & Capacity 
 
-You can utilize the Azure Cost & Capacity Insights app to Monitor Costs, Capacity, Usage Trends and identify Cost & Capacity Optimization options to reduce Azure Cloud expenditures. Please use Focus Mode for better & full-page visibility
+This Customized Template App (CTA) is used to Monitor Costs, Capacity, Usage Trends and identify Cost & Capacity Optimization options to reduce Azure Cloud expenditures. Please use Focus Mode for better & full-page visibility
 
-You can install & use the app as is from here:- [Azure Cost & Capacity Insights-CTA (Basic)](https://app.powerbi.com/Redirect?action=InstallApp&appId=e371edfe-816e-436f-8821-2a0de3bef001&packageKey=d60ae94d-8c2c-4cf3-a851-c6bbf0fd1b9431-q-JQERRDhtDpMAC3c-1Pphz2SDkgRm8GOHl8WZP0&ownerId=72f988bf-86f1-41af-91ab-2d7cd011db47&buildVersion=11), or you can also download this Customized Azure Cost & Capacity Insights-CTA (Basic) Template App as .pbix file into Power BI Desktop and join with additional data to create customized reports to get holistic views of your overall business cost. 
+You can install & use this Customized Template App (CTA) as is from here:- [Azure Cost & Capacity Insights-CTA (Basic)](https://app.powerbi.com/Redirect?action=InstallApp&appId=e371edfe-816e-436f-8821-2a0de3bef001&packageKey=96777c4a-2b84-421e-b3d8-b6ba36be7664mJCoUJuCkFC1g88kbQWG-Czh0ynJp8SS8O3iCdOH8X8&ownerId=72f988bf-86f1-41af-91ab-2d7cd011db47&buildVersion=12), or you can also download this Customized [Azure Cost & Capacity Insights-CTA (Basic) Template App](https://msit.powerbi.com/links/Fbk7q9aTzy?ctid=72f988bf-86f1-41af-91ab-2d7cd011db47&pbi_source=linkShare) as .pbix file into [Power BI Desktop](https://aka.ms/pbiSingleInstaller) and join with additional data to create customized reports to get holistic views of your overall business cost
 
 # Azure Cost & Capacity Insights-CTA (Basic) consists of 2 categories of Reports;
  **Azure Services Consumption Insights - High Level Overview & Azure Services - Current Consumption & Capacity Insights**
-  * Both the Reports serves as a Readymade Template to provide insights into Azure Service Cost Consumption, as latest as n-2 day, over a selected period.
+  * Both the Reports serves as a Readymade Template to provide insights into Azure Service Cost Consumption & Capacity Utilization, as latest as n-2 days, over a selected period.
   * You need to Connect to the Dataset with an Enterprise Admin (Read Only) Role.  The Reports are scheduled to Refresh daily at 00:00 hours
   * The initial duration is set to 1 or 2 Months, the same can be changed between 1 to 12 Months by changing the "Number of Months" Parameter Value
 
