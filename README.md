@@ -13,7 +13,7 @@
 * Requires Power BI / Fabric Workspace with Premium / Fabric Capacity License respectively and Azure '**Enterprise Billing (Reader)**' RBAC for Data Connect
 * Deployed with Relative Ease | No specific Tech Skills required, No Code or API/KQL/DAX quires to be developed
 
-Service Usage Report Template can be used As-Is or download as .pbix file into Power BI Desktop, append with additional data to create more comprehensive & holistic view of Business priorities
+Service Usage Report Template can be used As-Is or can be Customized to need or download as .pbix file into **[Power BI Desktop](https://aka.ms/pbiSingleInstaller)**, append with additional data for more comprehensive & holistic view of Business priorities
 
 # Value Add - Bespoke Report | ([Azure Resource Quota Usage Insights](https://github.com/i4dCEP/Azure-Quota-Usage-Insights))
 * This Report serves as Readymade Template to get Azure Quota & Usage information for Compute, Disks, Storage & Network Resources and Idle / Orphaned Resources like NIC's, Managed Disks & Public IP's across all the Subscriptions under a specific Azure Tenant
