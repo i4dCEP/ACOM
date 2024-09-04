@@ -1,5 +1,5 @@
 # Azure Cost | Capacity | Optimization Management (ACOM)
-**ACOM** is a Customized Azure Service Usage Report, developed on i4d-NoCode Cloud Excellence Platform ([i4dCEP](https://github.com/i4dCEP/NICE)), is a Reusable Ready-to-Deploy Template, Inclusive Design with Sensible Intelligence (SI - Practical | Reasonable | Rational)...
+**ACOM**, a Customized, Reusable Ready-to-Deploy Azure Service Usage Report Template, developed on i4d-NoCode Cloud Excellence Platform ([i4dCEP](https://github.com/i4dCEP/NICE)) | Inclusive Design with Sensible Intelligence (SI - Practical | Reasonable | Rational)...
 
 **ACOM** Service Usage Report Template provides Azure Enterprise Agreement (EA) Customers with detailed & Advance Insights into Daily / Monthly / Yearly Azure Spend, Service Usage Trends, Capacity-In-Use & probable Cost & Capacity Optimization Service areas, cutting across Primary & B2B Tenants | Azure Regions | Organization / Departments | Accounts | Subscriptions, Resource Groups, Service Categories, Sub-Categories, actual Product SKUs, Individual Resources / Resource Names
 * Aligned to ([Azure EA Structure, Hierarchy & Framework](https://github.com/i4dCEP/Azure-EA-Framework)) -|- Get visibility of the current configured EA Structure & respective Azure Spend
